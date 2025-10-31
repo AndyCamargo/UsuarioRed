@@ -72,7 +72,8 @@ Crear Usuario: Valida los datos y crea el usuario en Active Directory
 Cancelar: Limpia todos los campos del formulario
 
 ⚙️ Configuración
-Estructura del Proyecto
+📁 Estructura del Proyecto
+```
 UsuarioRed/
 ├── src/main/java/com/mycompany/usuariored/
 │   ├── UsuarioRed.java          # Clase principal
@@ -80,6 +81,8 @@ UsuarioRed/
 │   └── Inicio.form               # Diseño de la interfaz (NetBeans)
 ├── pom.xml                       # Configuración Maven
 └── README.md
+
+```
 Parámetros LDAP
 Modifica estos valores según tu entorno:
 
